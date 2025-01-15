@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=%F0%9F%8C%9F+Transformando+ideias+em+solu%C3%A7%C3%B5es+com+c%C3%B3digo+eficiente+e+criatividade+ilimitada.)](https://git.io/typing-svg)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c1ph3r-z3r0/c1ph3r-z3r0/output/github-contribution-grid-snake-dark.svg">
